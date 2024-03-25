@@ -1,0 +1,6 @@
+A	Clothing	Bottom	100	10000.0	32	Black
+C2	Clothing	dress	2	600.0	S	Red
+C22	Clothing	tshirt	20	5000.0	M	red
+E3	Electronics	iron	3	3500.0	singer	12
+E8	Electronics	Fan	18	1200.0	Panasonic	12
+tt	Clothing	tdress	1	4444.0	s	red
